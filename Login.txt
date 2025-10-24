@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 criação da funcionalidade login
 trabalhando no login
+=======
+login iniciado
+>>>>>>> login
